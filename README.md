@@ -1,5 +1,3 @@
-# matthewarena-poc
-
 Hi there 👋
 
 I'm Matt and this account is to showcase some things I like working on.
